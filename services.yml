@@ -1,2 +1,5 @@
 apiversion: v1
 kind: service
+meteada:
+  name: testsvc
+spec:
