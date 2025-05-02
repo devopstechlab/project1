@@ -4,4 +4,4 @@ meteada:
   name: testsvc
 spec:
   - name: tst
-    imagge: nginx
+    image: nginx
