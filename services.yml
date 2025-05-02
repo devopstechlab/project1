@@ -3,3 +3,5 @@ kind: service
 meteada:
   name: testsvc
 spec:
+  - name: tst
+    imagge: nginx
