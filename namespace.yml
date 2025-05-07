@@ -1,0 +1,5 @@
+# creating namespace for testing purpose to test feature1
+apiversion: v1
+kind: namespace
+metadata:
+  name: test-feature1
